@@ -9,7 +9,7 @@ Simple and easy but fowerfull web application framework
 
 문의게시판 바로가기 https://github.com/malgnsoft/malgn-framework/issues
 
-== 맑은프레임워크 개발 가이드 ==
+### 맑은프레임워크 개발 가이드
 1. [[레진 WAS 설치]]
 1. [[맑은프레임워크 설치]]
 1. [[맑은프레임워크 시작하기]]
